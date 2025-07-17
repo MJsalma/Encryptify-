@@ -28,5 +28,5 @@ Built for educational purposes, this tool empowers learners and communities to e
 
 ## 🌐 Live Demo
 
-After publishing via GitHub Pages, your live app will be accessible at:
+After publishing via GitHub Pages, your live app will be accessible at:https://mjsalma.github.io/Encryptify-/
 
